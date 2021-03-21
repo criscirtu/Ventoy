@@ -1,0 +1,2 @@
+Das ist eine neue Distro Builder.
+sc4lifeOS ist ein neues Distro.
